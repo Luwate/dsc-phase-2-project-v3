@@ -1,5 +1,5 @@
 # Phase 2 Project Description
-Group Members:
+Group Members: Boniface Mutwiri, Dorothy Awino, Luwate Inda, Julius Wakaba, Tracy Otieno
 Github: [Github](https://github.com/Luwate/dsc-phase-2-project-v3)
 Tableau Dashboard: [Tableau](https://public.tableau.com/app/profile/boniface.mutwiri/viz/Phase2projecttableaudashboard/Dashboard2)
 
